@@ -5,5 +5,4 @@ My name is Nestor and I'm a Web Developer.  My skills include (but not limited t
 Thanks for visiting!
 
 Email: nestor@nestordev.com
-
 LinkedIn: www.linkedin.com/in/cnestordev
